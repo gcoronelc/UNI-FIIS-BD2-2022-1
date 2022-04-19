@@ -1,11 +1,11 @@
-![TALLER DE PROGRAMACION WEB](https://raw.githubusercontent.com/gcoronelc/UNI-FIIS-TPW-2022-1/main/img/portada.png)
+![BASE DE DATOS 2](https://raw.githubusercontent.com/gcoronelc/UNI-FIIS-BD2-2022-1/main/img/portada.png)
 
 # DATOS GENERALES
 
 - Lugar: UNI - FIIS
-- Horario de teoría: Miercoles de 10-12 Horas
-- Horario de practica: Viernes de 08-12 Horas
-- Inicio: 16.FEB.2022
+- Horario síncrono: Martes de 14-17 Horas
+- Horario asíncrono: Miercoles de 15-18 Horas
+- Inicio: 19.ABR.2022
 - Duración: 48 Horas
 - Dirección: https://goo.gl/maps/ZY5zZ1LPUp7aK6g98
 
