@@ -4,7 +4,7 @@
 
 - Lugar: UNI - FIIS
 - Horario síncrono: Martes de 14-17 Horas
-- Horario asíncrono: Miercoles de 15-18 Horas
+- Horario asíncrono: Miércoles de 15-18 Horas
 - Inicio: 19.ABR.2022
 - Duración: 48 Horas
 - Dirección: https://goo.gl/maps/ZY5zZ1LPUp7aK6g98
