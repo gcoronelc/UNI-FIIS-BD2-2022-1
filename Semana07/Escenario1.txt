@@ -1,0 +1,17 @@
+﻿ESCENARIO 1
+--------------------------------------------------------
+Se contratará a un grupo de personas que realizaran las
+matriculas en los cursos programados.
+Base de datos: EDUCA
+
+1- Diseñar e implementar un rol con los permisos respectivos.
+2. Crear 5 login id con sus respectivos Database User.
+3. Hacer a los 5 Database Users miembros del nuevo rol.
+4. Realizar las pruebas respectivas.
+
+
+CURSO: SELECT, INSERT, UPDATE y DELETE
+ALUMNO: 
+
+
+
