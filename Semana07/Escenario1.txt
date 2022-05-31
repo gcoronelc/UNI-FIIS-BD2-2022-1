@@ -10,8 +10,29 @@ Base de datos: EDUCA
 4. Realizar las pruebas respectivas.
 
 
-CURSO: SELECT, INSERT, UPDATE y DELETE
-ALUMNO: 
+1- Crear el Rol
+-----------------------------------------
+
+
+
+2.- Asignar permisos al rol
+------------------------------------------
+
+
+
+
+3.- Crear los Login ID y Database Users
+---------------------------------------------
+
+
+
+4.- Hacer los Database Users miembros del rol
+---------------------------------------------------------
+
+
+
+
+
 
 
 
