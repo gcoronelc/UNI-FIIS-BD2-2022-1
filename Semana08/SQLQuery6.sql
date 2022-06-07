@@ -69,3 +69,14 @@ WHERE Campo2 = 5466 AND Campo3=4567;
 go
 
 
+CREATE INDEX IDX_TablaPrueba2_02 
+ON dbo.TablaPrueba2(Campo2); 
+go
+
+
+SELECT * FROM TablaPrueba2 
+ORDER BY Campo2
+
+
+
+
