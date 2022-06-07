@@ -1,0 +1,45 @@
+
+-- Caso 1
+BEGIN
+	DECLARE @N INT;
+	SET @N = 10;
+	WHILE(@N>=1)
+		PRINT 'SOY UN GANADOR';
+		SET @N = @N - 1;
+END;
+GO
+
+-- Caso 2
+BEGIN
+	DECLARE @N INT;
+	SET @N = 10;
+	WHILE(@N>=1)
+		PRINT 'SOY UN GANADOR';
+	SET @N = @N - 1;
+END;
+GO
+
+-- Caso 3
+BEGIN
+	DECLARE @N INT;
+	SET @N = 10;
+	WHILE(@N>=1)
+	BEGIN
+		PRINT 'SOY UN GANADOR';
+	END
+	SET @N = @N - 1;
+END;
+GO
+
+
+-- Caso 4
+BEGIN
+	DECLARE @N INT;
+	SET @N = 10;
+	WHILE(@N>=1)
+	BEGIN
+		PRINT 'SOY UN GANADOR';
+		SET @N = @N - 1;
+	END
+END;
+GO
